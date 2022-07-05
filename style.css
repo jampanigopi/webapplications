@@ -1,0 +1,11 @@
+body{
+  text-align:center;
+  background-color: aqua;
+}
+
+input[type=submit]{
+  background:green
+}
+input[type=reset]{
+  background:red;
+}
